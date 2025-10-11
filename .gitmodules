@@ -5,3 +5,6 @@
 	path = buildroot
 	url = https://gitlab.com/buildroot.org/buildroot/
 	branch = 2024.02.x
+[submodule "base_external/package/aesd-assignments/assignments-3-and-later-sana-all"]
+	path = base_external/package/aesd-assignments/assignments-3-and-later-sana-all
+	url = https://github.com/cu-ecen-aeld/assignments-3-and-later-sana-all.git
